@@ -96,6 +96,6 @@ int main()
         std::cout << "\nIteration " << iter + 1 << " complete.\n";
     }
 
-    std::cout << "\nMatrix multiplication performed 1 million times. << std::endl;
+    std::cout << "\nMatrix multiplication performed 1 million times." << std::endl;
     return 0;
 }
